@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "searchfalculate",
+        "uuid": 13104134,
+        "checksum": "jioda"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": false,
+        "mode": "staging"
+    }
+}
